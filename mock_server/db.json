@@ -1,0 +1,11 @@
+{
+    "products": [
+        {"id":1, "productTitle": "Google Pixel 7", "price": 10000},
+        {"id":2, "productTitle": "Apple iPhone 14", "price": 10000},
+        {"id":3, "productTitle": "Samsung Galaxy S7", "price": 10000},
+        {"id":4, "productTitle": "Huaweii G6", "price": 10000},
+        {"id":5, "productTitle": "OnePlus Nord 5G", "price": 10000},
+        {"id":6, "productTitle": "Motorola Razor7", "price": 10000},
+        {"id":7, "productTitle": "Lenovo Vibe K5 Note", "price": 10000}
+    ]
+}
